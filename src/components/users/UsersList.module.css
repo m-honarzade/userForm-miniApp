@@ -1,0 +1,14 @@
+.user {
+  margin: 2rem auto;
+  width: 90%;
+  max-width: 40rem;
+}
+.user ul {
+  list-style: none;
+  padding: 1rem;
+}
+.user li {
+  padding: 0.5rem;
+  margin: 0.5rem 0;
+  border: 1px solid #ccc;
+}
